@@ -1,1 +1,1 @@
-# Data Science and Machine Learning projects
+# Projects related to data analytics
